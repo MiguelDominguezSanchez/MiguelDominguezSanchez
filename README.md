@@ -104,7 +104,7 @@ My academic background is related to Fine Arts and Design, I love taking up resp
 <!--  -->
 
 <p align="center">
-   <img align="center" width="100" margin="-100" src="https://user-images.githubusercontent.com/36123431/120076526-433b5c80-c0a6-11eb-934c-d4ca9847603a.png" />
+   <img align="center" width="100" margin="-300" src="https://user-images.githubusercontent.com/36123431/120076526-433b5c80-c0a6-11eb-934c-d4ca9847603a.png" />
    <h2 align="center">MiguelDominguez();</h2>
 </p>
 
