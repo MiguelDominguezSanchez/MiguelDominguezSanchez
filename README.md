@@ -12,16 +12,21 @@ Skills: REACT / JS / HTML / CSS
 	{
 		technical_skills: {
 			web_developer: 'fullstack',
-			code: [JS, HTML, CSS, PHP],
-			technologies: {
-				front_end: {
-					js: ['react', 'vanilla_javascript'],
-					css: ['materialize', 'bootstrap', 'material_design'],
-				},
-				back_end: {
-					js: ['node', 'express'],
-				},
-				databases: ['mongodb', 'mysql'],
+				code: [JS, HTML, CSS, PHP],
+				technologies: {
+					front_end: {
+						js: ['react', 'vanilla_javascript'],
+						css: ['materialize', 'bootstrap', 'material_design'],
+					},
+					back_end: {
+						js: ['node', 'express'],
+					},
+					databases: ['mongodb', 'mysql'],
+			designer: {
+				web_design: ['ui-ux'],
+				graphic_design: ['corporate_identity'],
+				software: ['adobe_suit', 'figma', 'glyphs'],
+			}
 			},
 			professional_experience: {
 				royal_mint_of_spain: 'museum',
