@@ -1,7 +1,7 @@
 ### Hi there 👋, this is Miguel
 #### Design and Development
 
-![Miguel_Dominguez_GitHub_Profile_README_Header_Image_210529_0](https://user-images.githubusercontent.com/36123431/120074382-e25b5680-c09c-11eb-9c64-ad2f0db19c39.jpg)
+![Miguel_Dominguez_GitHub_Profile_README_Header_Image_210601_1](https://user-images.githubusercontent.com/36123431/120327736-5fc7d680-c2ea-11eb-84ca-d938d0fd3406.jpg)
 
 My academic background is related to Fine Arts and Design, I love taking up responsibilities, having the distinctiveness and advantageous merits.
 
