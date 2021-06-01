@@ -28,7 +28,7 @@ Skills: REACT / JS / HTML / CSS
 				software: ['adobe_suit', 'figma', 'glyphs'],
 			}
 			},
-			professional_experience: {
+		professional_experience: {
 				royal_mint_of_spain: 'museum',
 				internship: '2018-2019',
 				design_department: {
@@ -56,7 +56,7 @@ Skills: REACT / JS / HTML / CSS
 					],
 				},
 			},
-			academic_records: {
+		academic_records: {
 				universidad_de_castilla_la_mancha: 'cuenca',
 				masters_degree: '2019-2020',
 				research_and_artistic_visual_practices: {
@@ -91,8 +91,8 @@ Skills: REACT / JS / HTML / CSS
 					specialization: 'drawing_&_painting',
 				},
 			},
-			current_occupation: ['student, open for job opportunities'],
-			challenge:
+		current_occupation: ['student, open for job opportunities'],
+		challenge:
 				'i am creating a web development platform coined by my personal brand',
 		},
 	},
