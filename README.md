@@ -8,12 +8,91 @@ My academic background is related to Fine Arts and Design, I love taking up resp
 Skills: REACT / JS / HTML / CSS
 
 ```javascript
-const MiguelDominguez = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Styled-Components, Jest],
- challenge: "I am doing a channel to teach Web Development"
-}
+;[
+	{
+		technical_skills: {
+			web_developer: 'fullstack',
+			code: [JS, HTML, CSS, PHP],
+			technologies: {
+				front_end: {
+					js: ['react', 'vanilla_javascript'],
+					css: ['materialize', 'bootstrap', 'material_design'],
+				},
+				back_end: {
+					js: ['node', 'express'],
+				},
+				databases: ['mongodb', 'mysql'],
+			},
+			professional_experience: {
+				royal_mint_of_spain: 'museum',
+				internship: '2018-2019',
+				design_department: {
+					documents: [
+						{ poster: 'events' },
+						{ die: 'EXFILNA_2018_sevilla' },
+						{ cartouches: 'layout' },
+					],
+				},
+				IBDA: 'file',
+				speech: '2018',
+				banknote_design: {
+					talk: [{ presentation_project: 'banknote' }, { speech: 'english' }],
+				},
+				national_library_of_spain: 'museum',
+				internship: '2016-2017',
+				tasks: {
+					roles: [
+						{ visit_guide: 'BNE' },
+						{ admin: 'web_content_management' },
+						{ support: 'educational_workshops' },
+						{ researcher: 'information_gathering' },
+						{ designer: 'graphic_edition' },
+						{ teacher: 'drawing' },
+					],
+				},
+			},
+			academic_records: {
+				universidad_de_castilla_la_mancha: 'cuenca',
+				masters_degree: '2019-2020',
+				research_and_artistic_visual_practices: {
+					final_masters_project: [
+						{ design: 'manuel_de_arpe_corporate_identity' },
+						{ web_development: 'custom_theme_wordpress' },
+						{ theory: 'artistic_practices' },
+					],
+				},
+				fabrica_nacional_de_la_moneda_y_timbre: 'madrid',
+				masters_degree: '2016-2018',
+				design: {
+					final_masters_project: [
+						{ design: 'owl_of_minerva_corporate_identity' },
+						{ web_development: 'custom_theme_wordpress' },
+						{ theory: 'artistic_practices' },
+					],
+				},
+				universidad_de_castilla_la_mancha: 'cuenca',
+				degree: '2012-2016',
+				fine_arts: {
+					specialization: 'design',
+					final_degrees_project: [
+						{ engraving: 'artist-book' },
+						{ technique: 'photopolymer' },
+						{ content: 'poetry' },
+					],
+				},
+				IES_antonio_machado: 'alcala_de_henares',
+				high_school: '2003-2011',
+				arts: {
+					specialization: 'drawing_&_painting',
+				},
+			},
+			current_occupation: ['student, open for job opportunities'],
+			challenge:
+				'i am creating a web development platform coined by my personal brand',
+		},
+	},
+]
+
 ```
 
 
