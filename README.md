@@ -5,18 +5,9 @@
 
 My academic background is related to Fine Arts and Design, I love taking up responsibilities, having the distinctiveness and advantageous merits.
 
-Skills: REACT / JS / HTML / CSS
+![Miguel_Dominguez_Code_Editor_Header_Image_210601_0](https://user-images.githubusercontent.com/36123431/120378743-18a80880-c31f-11eb-948c-d77f864fa311.jpg)
 
 ```javascript
-const developer = {
-	name: 'Miguel',
-	fullstack: true,
-	work() {
-		if (this.fullstack) {
-			return `I am ${this.name}, web developer & designer`
-		}
-	},
-}
 ;[
 	{
 		technical_skills: {
