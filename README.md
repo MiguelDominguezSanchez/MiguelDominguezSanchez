@@ -29,7 +29,7 @@ Skills: REACT / JS / HTML / CSS
 			}
 			},
 		professional_experience: {
-				royal_mint_of_spain: 'museum',
+			royal_mint_of_spain: 'museum',
 				internship: '2018-2019',
 				design_department: {
 					documents: [
@@ -38,12 +38,12 @@ Skills: REACT / JS / HTML / CSS
 						{ cartouches: 'layout' },
 					],
 				},
-				IBDA: 'file',
+			IBDA: 'file',
 				speech: '2018',
 				banknote_design: {
 					talk: [{ presentation_project: 'banknote' }, { speech: 'english' }],
 				},
-				national_library_of_spain: 'museum',
+			national_library_of_spain: 'museum',
 				internship: '2016-2017',
 				tasks: {
 					roles: [
@@ -57,7 +57,7 @@ Skills: REACT / JS / HTML / CSS
 				},
 			},
 		academic_records: {
-				universidad_de_castilla_la_mancha: 'cuenca',
+			universidad_de_castilla_la_mancha: 'cuenca',
 				masters_degree: '2019-2020',
 				research_and_artistic_visual_practices: {
 					final_masters_project: [
@@ -66,7 +66,7 @@ Skills: REACT / JS / HTML / CSS
 						{ theory: 'artistic_practices' },
 					],
 				},
-				fabrica_nacional_de_la_moneda_y_timbre: 'madrid',
+			fabrica_nacional_de_la_moneda_y_timbre: 'madrid',
 				masters_degree: '2016-2018',
 				design: {
 					final_masters_project: [
@@ -75,7 +75,7 @@ Skills: REACT / JS / HTML / CSS
 						{ theory: 'artistic_practices' },
 					],
 				},
-				universidad_de_castilla_la_mancha: 'cuenca',
+			universidad_de_castilla_la_mancha: 'cuenca',
 				degree: '2012-2016',
 				fine_arts: {
 					specialization: 'design',
@@ -85,7 +85,7 @@ Skills: REACT / JS / HTML / CSS
 						{ content: 'poetry' },
 					],
 				},
-				IES_antonio_machado: 'alcala_de_henares',
+			IES_antonio_machado: 'alcala_de_henares',
 				high_school: '2003-2011',
 				arts: {
 					specialization: 'drawing_&_painting',
