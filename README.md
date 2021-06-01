@@ -8,6 +8,15 @@ My academic background is related to Fine Arts and Design, I love taking up resp
 Skills: REACT / JS / HTML / CSS
 
 ```javascript
+const developer = {
+	name: 'Miguel',
+	fullstack: true,
+	work() {
+		if (this.fullstack) {
+			return `I am ${this.name}, web developer & designer`
+		}
+	},
+}
 ;[
 	{
 		technical_skills: {
