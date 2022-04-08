@@ -3,7 +3,7 @@
 
 ![Miguel_Dominguez_GitHub_Profile_README_Header_Image_210601_1](https://user-images.githubusercontent.com/36123431/120327736-5fc7d680-c2ea-11eb-84ca-d938d0fd3406.jpg)
 
-My academic background is related to Fine Arts and Design, I love taking up responsibilities, having the distinctiveness and advantageous merits.
+My academic background is related to Fine Arts and Design, I love taking up responsibilities.
 
 ![Miguel_Dominguez_Code_Editor_Header_Image_210601_0](https://user-images.githubusercontent.com/36123431/120378743-18a80880-c31f-11eb-948c-d77f864fa311.jpg)
 
